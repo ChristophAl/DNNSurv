@@ -1,0 +1,18 @@
+# Ordner
+envs/
+.envs/
+# Dateien
+*.hc
+*.key
+*.csv
+*.tsv
+*.zip
+*.gz
+*.idat
+*.gtc
+*.vcf
+*.tbi
+*.pt
+*.pptx
+*.odt
+*.pdf
